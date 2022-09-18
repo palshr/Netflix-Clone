@@ -1,0 +1,503 @@
+html{
+    font-size: 62.5%;
+  }
+  .for{
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/images/3n.jpg);
+    background-size: cover;
+    background-position: center;
+height: 700px;
+  }
+  
+  .for .row .col-md-8{
+    color: red;
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: sans-serif;
+ 
+  }
+  .fooor{
+    display: flex;
+  }
+
+ .fooor .btns button{
+    font-size: 1.5rem;
+    margin-left: 2.5rem;
+ width: 80px;
+ }
+  .dropdown button{
+    background-color: rgba(0, 0, 0, 0.666);
+    font-size: 1.5rem;
+   width: 80px;
+   margin-top: 1rem;
+  position: relative;
+  }
+  
+  .head{
+      text-align: center;
+     color: #ffffff;
+     margin-top: 25rem;
+    }
+  .head h1{
+      font-size: 6rem;
+       font-weight: 700;
+      font-family: sans-serif;
+    }
+  .head h3{
+      font-size: 3rem;
+       font-weight: 400;
+      font-family: sans-serif;
+    }
+  .head h5{
+      font-size: 2rem;
+       font-weight: 200;
+      font-family: sans-serif;
+    }
+  .input-group{
+      width: 60%;
+      margin-left: 25rem;
+      margin-top: 2rem;
+    }
+  #email{
+    height: 7rem;
+    width: 50%;
+    font-size: 2rem;
+  }
+
+
+
+
+  .sec1{
+    border: 3px solid rgb(103, 99, 99);
+ margin-top: 16rem;
+    background-color: black;
+    height: 450px;
+  }
+  .mov-text{
+ margin-left: -1rem;
+    color: #ffffff;
+   padding-top: 10rem;
+   font-family: sans-serif;
+  
+  }
+  .mov-text h1{
+      font-size: 6rem;
+    font-weight: 700;
+  }
+  .mov-text h5{
+    margin-top: 1.5rem;
+    font-size: 3rem;
+    font-weight: 500;
+  }
+  .mov{
+    margin-top: 70px;
+    position: relative;
+
+    display: flex;
+  }
+  .vide1{
+  margin-top: -5px;
+   width: 300px;
+ margin-right: -3800px;
+  
+  }
+  
+  .mov img{
+margin-top: -5px;
+  height: 300px;
+  margin-left: 30px;
+  
+  }
+
+
+
+
+  .sec2{
+    background-color: black;
+    border: 3px solid rgb(103, 99, 99);
+    height: 550px;
+  }
+  .card-img-top{
+  height: 250px;
+  width: 250px;
+  }
+  .red2 .row{
+    background-color: rgb(6, 60, 42);
+    margin-top: -10rem;
+      border: 5px solid #cfacac93;
+      height: 90px;
+      border-radius: 10px;
+      background-color: black;
+       width: 250px;
+  }
+
+  .card{
+    margin-top: 3rem;
+    border: none;
+    margin-left: 10rem;
+  
+  }
+  .card-body{
+    background-color:black
+  }
+  .img1 img{
+    margin-top: 1rem;
+    height: 6rem;
+    
+  }
+  .card-body h5{
+     font-size: 1.6rem;
+    font-family:sans-serif;
+    font-weight: 500;
+    margin-top: 1.3rem;
+    margin-right: 10px;
+    color: #ffffff;
+  }
+  .card-body h6{
+    font-size: 1.3rem;
+    font-family:sans-serif;
+    font-weight: 300;
+    color: blue;
+  }
+  .red2 .col-2 img{
+    margin-top: 30px;
+    height: 40px;
+    margin-right: 15px;
+  }
+  
+  .red{
+    background-color: rgb(12, 11, 11);
+    text-align: center;
+  margin-top: 10rem;
+ 
+  }
+  .red h1{
+  color: #ffffff;
+  font-size: 5.5rem;
+  font-weight: 700;
+  }
+
+  .red h5{
+    margin: 30px;
+    color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: 400;
+  }
+  
+
+  .sec3{
+    background-color: black;
+    height: 500px;
+    border: 3px solid rgb(103, 99, 99);
+  }
+  .vede2{
+    margin-top: 5rem;
+  padding-right: 10px;
+  margin-left: 20px;
+  }
+  
+  .vede2 video{   
+     margin-bottom: -20rem;
+    width: 31rem;
+    margin-right: -40rem;
+    }
+
+
+  .vede2 img{
+  margin-top: -1.7rem;
+    width: 50rem;
+  margin-left: -9.3rem;
+  }
+  
+  .vede2-text{
+     
+   margin-top: 15rem;
+    color: #ffffff;
+    margin-left: 2rem;
+    font-family: sans-serif;
+width: 650px;
+  }
+  .vede2-text h1{
+  width: 500px;
+    font-size: 5.5rem;
+    font-weight: 700;
+  }
+  .vede2-text h5{
+  line-height: 3rem;
+    font-size: 2.3rem;
+  }
+  
+
+  .sec4{
+    background-color: black;
+    height: 550px;
+    border: 3px solid rgb(103, 99, 99);
+  }
+  .imag4 img{
+    margin-top: 7rem;
+    height: 450px;
+   
+  }
+  
+  .head4 h1{
+     margin-top: 12rem;
+   color: #ffffff;
+   font-size: 6rem;
+   font-weight: 700;
+   font-family: sans-serif;
+    width: 550px;
+  }
+
+  .head4 h5{
+    color: #ffffff;
+    font-size: 2.8rem;
+    font-weight: 300;
+    font-family: sans-serif;
+   }
+  
+
+   .sec5{
+    background-color: rgb(0, 0, 0);
+   height: 79rem;
+    border: 3px solid rgb(103, 99, 99);
+   }
+  
+   .main h3{
+   padding-top: 5rem;
+    font-size: 4rem;
+    color: #ffffff;
+   text-align: center;
+    margin-bottom: 2rem;
+   }
+.ques1 {
+  margin-left: 30px;
+    border: 2px solid rgba(110, 110, 108, 0.832) ;
+    margin-top: 3rem;
+   width: 80%;
+    position: relative;
+   background-color: rgba(17, 17, 16, 0.832);
+   font-size: 2rem;
+   color: #ffffff;
+  
+   }
+.ques1 button{
+    font-size: 3rem;
+    width: 100%;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 400;
+    border: none;
+  
+   }
+   .ques1 button:hover{
+    color: #ffffff;
+    
+   }
+   .ques1 svg{
+    color: #ffffff;
+   font-weight: bolder;
+   float: right;
+   margin-right: 5rem;
+   margin-top: .5rem  ;
+   }
+   .ques2{
+    margin-top: 2rem;
+   }
+.ques1 p{
+  font-size: 2rem;
+  color: #ffffff;
+}
+.c5{
+  margin-left: 50px;
+}
+
+.header h5{
+  color: #bbbbbb;
+  padding-top: 70px;
+}
+ footer{
+  background-color: #24262b;
+ height: 400px;
+ font-family: 'Times New Roman', Times, serif;
+ text-decoration: none;
+}
+.fot{
+  margin-top: 2%;
+height: 30vh;
+width: 25%;
+
+}
+.lis{
+
+  float: left;
+  
+}
+
+h4{
+  font-size: 2rem;
+ color: #ffffff;
+  margin-bottom: 15%;
+}
+.pl{
+  margin-top: 0;
+  margin-left: 15%;
+  margin-bottom: 10%;
+
+}
+.pl1{
+  margin-bottom: 40%;
+  position: relative;
+float: left;
+ 
+}
+.fot ul li {
+  list-style: none;
+  padding-left: 10px;
+  margin-top: 7px;
+  font-size: 1.5rem;
+
+ 
+}
+.fot ul li a{
+ 
+  margin-top: 7px;
+ 
+  text-decoration: none;
+  color: #bbbbbb;
+ transform: scaleX(+5);
+ font-size: 1.7rem;
+}
+
+.fot ul li a:hover{
+  color: #ffffff;
+  padding-left: 8px;
+}
+
+ .dp{
+  margin-top: -40px;
+  margin-left: 60px;
+  width: 90px;
+ }
+ .dp button{
+  width: 100px;
+ }
+
+
+  @media screen and (min-width:374px) and (max-width: 980px) {
+
+    html{
+        font-size: 45%;
+    }
+ .input-group{
+      margin-left: 1rem;
+      width: 80%;
+     
+    }
+ #email{
+    margin-left: 40px;
+  
+  }
+ .for .row .col-md-8{
+  width: 0px;
+ 
+  }
+    
+.fooor{
+    margin-top: 0;
+
+width: 190px;
+float: right;
+margin-top: -100px;
+margin-left: 50%;
+   }
+        
+
+   .mov-text{
+ margin-left: 2rem;
+ height: 140px;
+  
+ }
+
+ .mov{
+margin-left: 60px;
+width: 100px;
+ }
+
+ .vide1{
+    width: 250px;
+margin-right: -3800px;
+ 
+ }
+ 
+ .mov img{
+ height: 250px;
+ margin-left: 30px;
+ 
+ }
+
+ .card{
+  height: 100px;
+     width: 100px;
+  
+}
+
+.red {
+ margin-left: 20px;
+ margin-top: 120px;
+}
+.red2{
+  display: block;
+}
+
+.vede2-text {
+width: 550px;
+
+}
+
+.vede2-text h1{
+  margin-top: -70px;
+  margin-left: 10px;
+}
+
+.vede2 video{   
+ margin-left: 90px;
+  }
+
+ .vede2 img{
+ margin-left: 20px;
+ }
+
+ .imag4 img{
+ 
+  height: 250px;
+  width: 350px;
+ margin-bottom: -70px;
+ 
+}
+
+.head4  h1{
+  font-size: 40px;
+  width: 400px;
+ }
+
+.ques1{
+width: 90%;
+margin-left: -10px;
+}
+
+.fot{
+  margin-top: 0;
+}
+
+.img1 img{
+  margin-top: 1rem;
+  height: 7rem;
+  
+}
+.card-body h5{
+  font-size: 2.2rem;
+
+}
+
+  }
+
+ 
